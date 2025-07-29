@@ -23,6 +23,10 @@ body {
     text-align: left; 
     margin-right: 340px; 
     margin-bottom: 20px;
+    text-shadow: -1px -1px 0 khaki,
+        1px -1px 0 khaki,
+        -1px 1px 0 khaki,
+        1px 1px 0 khaki;
 }
 
 .intro-section h3 {
@@ -78,6 +82,14 @@ body {
     padding-bottom: 10px;
 }
 
+.main-content ul { 
+
+text-shadow: -1px -1px 0 khaki,
+        1px -1px 0 khaki,
+        -1px 1px 0 khaki,
+        1px 1px 0 khaki;
+
+}
 .main-content p {
     font-size: 1.2rem;
     color: #555;
@@ -131,4 +143,11 @@ div {
     .main-content {
         padding: 20px 10px;
     }
+}
+.image-gallery { width: 300px;
+                hight: auto;}
+
+
+
+
 }
