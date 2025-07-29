@@ -80,9 +80,12 @@ body {
 
 .main-content p {
     font-size: 1.2rem;
-    color: #f9f9f9;
+    color: #555;
     margin-bottom: 20px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    text-shadow: -1px -1px 0 khaki,
+        1px -1px 0 khaki,
+        -1px 1px 0 khaki,
+        1px 1px 0 khaki;
 }
 
 .main-content div {
@@ -91,6 +94,11 @@ body {
     border-radius: 10px;
     margin-bottom: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-shadow: -1px -1px 0 khaki,
+        1px -1px 0 khaki,
+        -1px 1px 0 khaki,
+        1px 1px 0 khaki;
+    
 }
 
 h2, h3 {
@@ -106,6 +114,10 @@ div {
     border: 2px solid #ddd;
     padding: 10px;
     border-radius: 5px;
+    text-shadow: -1px -1px 0 khaki,
+        1px -1px 0 khaki,
+        -1px 1px 0 khaki,
+        1px 1px 0 khaki;
 }
 
 @media (max-width: 768px) {
