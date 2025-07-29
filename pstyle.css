@@ -144,9 +144,7 @@ div {
         padding: 20px 10px;
     }
 }
-.image-gallery { width: 300px;
-                hight: auto;}
-    img {display: block;
+.image-gallery img {display: block;
     margin: 0 auto;
     width:  300px;
 height: 300px;}
