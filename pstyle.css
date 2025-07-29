@@ -146,9 +146,9 @@ div {
 }
 .image-gallery img {display: block;
     margin: 0 auto;
-    width:  300px;
-height: 300px;}
+    width:  30px;
+height: 30px;}
 
-    img images/ceo.jpg { width: 250px;
-                        hight: 225px; 
+    img images/ceo.jpg { width: 25px;
+                        hight: 25px; 
                        }
