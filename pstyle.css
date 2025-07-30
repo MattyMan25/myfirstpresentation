@@ -66,7 +66,9 @@ body {
 }
 
 .main-content {
-    background: url('../images/ftbkground.webp') no-repeat center center fixed;
+    background: 
+    linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+url('../images/ftbkground.webp') no-repeat center center fixed;
     background-size: cover;
     padding: 40px 20px;
     
