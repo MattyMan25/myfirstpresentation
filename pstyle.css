@@ -10,11 +10,11 @@ body {
 }
 
 .intro-section { 
-    color: #ffffff
-        text-shadow:  -1px -1px 0 black,
-        1px -1px 0 black,
-        -1px 1px 0 black,
-        1px 1px 0 black;
+    color: #ffffff;
+    text-shadow: -1px -1px 0 black,
+                   1px -1px 0 black,
+                  -1px 1px 0 black,
+                   1px 1px 0 black;
 
 
     background-color: #f2ef2e;
