@@ -84,6 +84,13 @@ url('../images/ftbkground.webp') no-repeat center center fixed;
     padding-bottom: 10px;
 }
 
+.main-content p,
+.main-content ul,
+.main-content li,
+.main-content div {
+    font-size: 1.4rem;
+}
+
 .main-content ul { 
 
 text-shadow: -1px -1px 0 khaki,
