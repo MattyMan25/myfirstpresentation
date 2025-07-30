@@ -9,6 +9,10 @@ body {
     line-height: 1.6;
     color: #ce0909;
 }
+.intro-section strong { color: #15130e;
+}
+.intro-section b { color: #15130e;
+}
 
 .intro-section {
     background-color: #f2ef2e;
@@ -23,16 +27,20 @@ body {
     text-align: left; 
     margin-right: 340px; 
     margin-bottom: 20px;
-    text-shadow: -1px -1px 0 khaki,
-        1px -1px 0 khaki,
-        -1px 1px 0 khaki,
-        1px 1px 0 khaki;
+    text-shadow: -1px -1px 0 #dd3d3d,
+        1px -1px 0 #dd3d3d,
+        -1px 1px 0 #dd3d3d,
+        1px 1px 0 #dd3d3d;
 }
 
 .intro-section h3 {
     font-size: 1.5rem;
     color: #555;
     margin-bottom: 10px;
+text-shadow: -1px -1px 0 #dd3d3d,
+        1px -1px 0 #dd3d3d,
+        -1px 1px 0 #dd3d3d,
+        1px 1px 0 #dd3d3d;
 }
 
 .intro-section ul {
@@ -83,7 +91,24 @@ url('../images/ftbkground.webp') no-repeat center center fixed;
     border-bottom: 3px solid #fff;
     padding-bottom: 10px;
 }
-
+.main-content h2 { 
+    color: #fff;
+    text-shadow: -1px -1px 0 khaki,
+        1px -1px 0 khaki,
+        -1px 1px 0 khaki,
+        1px 1px 0 khaki;
+}
+.main-content h3 {
+    color: #fff;
+    text-shadow: -1px -1px 0 khaki,
+        1px -1px 0 khaki,
+        -1px 1px 0 khaki,
+        1px 1px 0 khaki;
+}
+.main-content strong { color: #f3d85c;
+}
+.main-content b { color: #f3d85c;
+}
 .main-content p,
 .main-content ul,
 .main-content li,
@@ -92,7 +117,7 @@ url('../images/ftbkground.webp') no-repeat center center fixed;
 }
 
 .main-content ul { 
-
+  color: #22f177;
 text-shadow: -1px -1px 0 khaki,
         1px -1px 0 khaki,
         -1px 1px 0 khaki,
@@ -101,7 +126,7 @@ text-shadow: -1px -1px 0 khaki,
 }
 .main-content p {
     font-size: 1.2rem;
-    color: #555;
+    color: #22f177;
     margin-bottom: 20px;
     text-shadow: -1px -1px 0 khaki,
         1px -1px 0 khaki,
@@ -123,7 +148,7 @@ text-shadow: -1px -1px 0 khaki,
 }
 
 h2, h3 {
-    border-left: 5px solid #ff6f61;
+    border-left: 5px solid ##ffffff;
     padding-left: 10px;
     margin-bottom: 10px;
     text-shadow: -1px -1px 0 khaki,
